@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "ssjoy",
+      "version": "1.0.0",
+      "description": "This is a sample description for the first object.",
+      "main": "index.js",
+      "author": "John Doe",
+      "license": "ISC",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "socket.io": "^4.7.4",
+      "ytdl-core": "^4.11.5"
+    },
+    {
+      "id": 2,
+      "name": "example",
+      "version": "2.0.0",
+      "description": "This is a sample description for the second object.",
+      "main": "app.js",
+      "author": "Jane Smith",
+      "license": "ISC",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "socket.io": "^4.7.4",
+      "ytdl-core": "^4.11.5"
+    },
+    {
+      "id": 3,
+      "name": "sample",
+      "version": "1.2.3",
+      "description": "This is a sample description for the third object.",
+      "main": "server.js",
+      "author": "Alice Johnson",
+      "license": "ISC",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "socket.io": "^4.7.4",
+      "ytdl-core": "^4.11.5"
+    }
+  ]
+  
